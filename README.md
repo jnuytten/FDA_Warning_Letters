@@ -60,6 +60,7 @@ Scripts and notebooks
 ---------------------
 script-crawl_to_db.py : crawl complete website and put links in database,
 	or if database already contains records add new links while existing links remain in the database
+
 script-download_letters.py : download all missing letters from website to the letters directory
 
 nlp_analysis_report.ipynb : data analysis, requires populated database and downloaded letters
